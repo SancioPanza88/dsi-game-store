@@ -22,11 +22,10 @@ jobs:
         working-directory: ds-app
         run: |
           set -e
-          ls /opt/devkitpro/libnds/nds7.elf 2>/dev/null || ls /opt/devkitpro/libnds/bin/nds7.elf 2>/dev/null || true
           export DEVKITPRO=/opt/devkitpro
           export DEVKITARM=$DEVKITPRO/devkitARM
           make clean
-          make ARM7=${DEVKITPRO}/libnds/nds7.elf
+          make
 
       - name: Upload .nds artifact
         uses: actions/upload-artifact@v4

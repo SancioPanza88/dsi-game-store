@@ -15,6 +15,7 @@ SOURCE := source
 INCLUDE := include
 BUILD := build
 DATA := data
+ICON := $(DATA)/icon.bmp
 
 # devkitPro paths
 ifeq ($(strip $(DEVKITARM)),)
@@ -34,17 +35,14 @@ OBJCOPY := $(DEVKITARM)/bin/arm-none-eabi-objcopy
 NDSTOOL := $(DEVKITPRO)/tools/bin/ndstool
 GRIT := $(DEVKITPRO)/tools/bin/grit
 # ARM7 binary: auto-detect across devkitPro layouts; override with ARM7=...
-ARM7 ?= $(shell ls $(DEVKITPRO)/libnds/nds7.elf $(DEVKITPRO)/libnds/bin/nds7.elf $(DEVKITPRO)/nds7.elf 2>/dev/null | head -n1)
-ifeq ($(ARM7),)
-$(error "nds7.elf not found under $(DEVKITPRO)/libnds. Set ARM7=/path/to/nds7.elf")
-endif
+ARM7 ?= $(DEVKITPRO)/libnds/default.elf
 
 # Flags
-ARCH := -mthumb -mthumb-interwork
-CFLAGS := $(ARCH) -O2 -Wall -Wno-unused -I$(INCLUDE) -I$(DEVKITPRO)/libnds/include
+ARCH := -march=armv5te -mtune=arm946e-s -mthumb -mthumb-interwork
+CFLAGS := $(ARCH) -O2 -Wall -Wno-unused -DARM9 -I$(INCLUDE) -I$(DEVKITPRO)/libnds/include -I$(DEVKITPRO)/portlibs/nds/include -I$(DEVKITPRO)/portlibs/arm/include
 CXXFLAGS := $(CFLAGS) -fno-exceptions -fno-rtti
-LDFLAGS := $(ARCH) -L$(DEVKITPRO)/libnds/lib -L$(DEVKITPRO)/portlibs/arm/lib
-LIBS := -lnds9 -lfat -ldswifi9 -lz -lc -lm
+LDFLAGS := $(ARCH) -specs=ds_arm9.specs -L$(DEVKITPRO)/portlibs/nds/lib -L$(DEVKITPRO)/libnds/lib -L$(DEVKITPRO)/portlibs/arm/lib
+LIBS := -ldswifi9 -lfat -lnds9 -lz -lm
 
 # Source files
 C_SOURCES := $(wildcard $(SOURCE)/*.c) \
@@ -76,9 +74,8 @@ $(BUILD)/$(TARGET).elf: $(OBJECTS)
 
 # Create NDS file
 $(TARGET).nds: $(BUILD)/$(TARGET).elf
-	$(OBJCOPY) -O binary $< $(BUILD)/$(TARGET).bin
-	$(NDSTOOL) -c $@ -7 $(ARM7) -9 $(BUILD)/$(TARGET).elf \
-		-b $(DATA)/banner.bin -t "$(TITLE)" -d "$(DESCRIPTION)"
+	$(NDSTOOL) -c $@ -7 $(ARM7) -9 $< \
+		-b $(ICON) "$(TITLE);$(DESCRIPTION);homebrew"
 
 # Clean
 clean:
