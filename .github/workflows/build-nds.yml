@@ -13,7 +13,7 @@ jobs:
     name: Build .nds
     runs-on: ubuntu-latest
     container:
-      image: devkitpro/devkitarm:latest
+      image: devkitpro/devkitarm:20241104
     steps:
       - name: Checkout
         uses: actions/checkout@v4
