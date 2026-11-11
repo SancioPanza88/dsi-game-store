@@ -25,7 +25,7 @@ jobs:
           export DEVKITPRO=/opt/devkitpro
           export DEVKITARM=$DEVKITPRO/devkitARM
           make clean
-          make
+          make -k
 
       - name: Upload .nds artifact
         uses: actions/upload-artifact@v4

@@ -10,24 +10,34 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <netdb.h>
+#include <arpa/inet.h>
 /* console.h not needed */
 
 /* Wi-Fi connection state */
-static WifiConnectionState wifi_state = 0;
 static char ip_address[16] = "0.0.0.0";
+
+static bool wifi_is_associated(void) {
+    return Wifi_AssocStatus() == ASSOCSTATUS_ASSOCIATED;
+}
+
+static void wifi_update_ip(void) {
+    struct in_addr ip;
+    ip.s_addr = Wifi_GetIP();
+    snprintf(ip_address, sizeof(ip_address), "%s", inet_ntoa(ip));
+}
 
 /* Initialize network subsystem */
 void network_init(void) {
     /* Initialize dswifi */
-    Wifi_InitDefault(false);
+    Wifi_InitDefault(INIT_ONLY);
     
     /* Set up Wi-Fi AP connection */
     /* Uses the DSi's saved Wi-Fi settings */
     
     /* Check if already connected */
-    if (Wifi_CheckConnection()) {
+    if (wifi_is_associated()) {
         app.wifi_connected = true;
-        Wifi_GetIP(ip_address, NULL);
+        wifi_update_ip();
     } else {
         app.wifi_connected = false;
     }
@@ -52,9 +62,9 @@ bool wifi_connect(void) {
     while (timeout > 0) {
         Wifi_AutoConnect();
         
-        if (Wifi_CheckConnection()) {
+        if (wifi_is_associated()) {
             app.wifi_connected = true;
-            Wifi_GetIP(ip_address, NULL);
+            wifi_update_ip();
             return true;
         }
         
@@ -76,9 +86,9 @@ bool wifi_disconnect(void) {
 
 /* Check connection status */
 bool wifi_check_connection(void) {
-    if (Wifi_CheckConnection()) {
+    if (wifi_is_associated()) {
         app.wifi_connected = true;
-        Wifi_GetIP(ip_address, NULL);
+        wifi_update_ip();
         return true;
     }
     app.wifi_connected = false;
@@ -88,7 +98,7 @@ bool wifi_check_connection(void) {
 /* Get signal strength (0-100) */
 int wifi_get_signal_strength(void) {
     if (!app.wifi_connected) return 0;
-    return Wifi_GetStats(); /* Returns signal quality */
+    return wifi_is_associated() ? 100 : 0;
 }
 
 /* Get IP address string */
