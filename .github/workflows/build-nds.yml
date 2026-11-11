@@ -34,5 +34,3 @@ jobs:
           name: dsi-game-store-nds
           path: ds-app/dsi-game-store.nds
           if-no-files-found: error
-EOF
-echo created
