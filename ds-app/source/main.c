@@ -57,8 +57,6 @@ void app_init(void) {
     oamInit(&oamMain, SpriteMapping_1D_32, false);
     oamInit(&oamSub, SpriteMapping_1D_32, false);
     
-    /* Initialize input */
-    touchInit();
     
     /* Initialize SD card */
     if (!fatInitDefault()) {
