@@ -31,7 +31,7 @@
 #define DSi_MODE        true
 
 /* Memory limits */
-#define MAX_GAMES       500
+#define MAX_GAMES       300
 #define MAX_CATEGORIES  16
 #define MAX_TITLE_LEN   64
 #define MAX_DESC_LEN    512
@@ -112,7 +112,7 @@ typedef struct {
     bool is_favorite;
     bool is_downloaded;
     char local_path[MAX_PATH_LEN];
-    unsigned char cover_data[COVER_WIDTH * COVER_HEIGHT * 2]; /* RGB565 */
+    unsigned char *cover_data; /* RGB565, heap-allocated on demand */
     bool cover_loaded;
     int num_versions;
     int selected_version;

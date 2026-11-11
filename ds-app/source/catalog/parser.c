@@ -9,9 +9,9 @@
 #include "../include/storage.h"
 
 /* Internal state */
-static Game filtered_games[MAX_GAMES];
+static Game *filtered_games[MAX_GAMES];
 static int filtered_count = 0;
-static Game search_results[MAX_GAMES];
+static Game *search_results[MAX_GAMES];
 static int search_count = 0;
 static bool search_active = false;
 static bool filter_active = false;
@@ -130,9 +130,13 @@ bool catalog_load_from_cache(void) {
     
     /* Load covers from cache */
     for (int i = 0; i < app.total_games; i++) {
-        if (storage_load_cover(app.games[i].id, app.games[i].cover_data, 
-                              COVER_WIDTH * COVER_HEIGHT * 2)) {
+        unsigned char *buf = (unsigned char *)malloc(COVER_WIDTH * COVER_HEIGHT * 2);
+        if (!buf) break;
+        if (storage_load_cover(app.games[i].id, buf, COVER_WIDTH * COVER_HEIGHT * 2)) {
+            app.games[i].cover_data = buf;
             app.games[i].cover_loaded = true;
+        } else {
+            free(buf);
         }
     }
     
@@ -398,7 +402,7 @@ void catalog_set_genre_filter(GameGenre genre) {
     filtered_count = 0;
     for (int i = 0; i < app.total_games && filtered_count < MAX_GAMES; i++) {
         if (app.games[i].genre == genre) {
-            filtered_games[filtered_count++] = app.games[i];
+            filtered_games[filtered_count++] = &app.games[i];
         }
     }
 }
@@ -417,7 +421,7 @@ int catalog_get_filtered_count(void) {
 /* Get filtered game */
 Game *catalog_get_filtered_game(int index) {
     if (index < 0 || index >= filtered_count) return NULL;
-    return &filtered_games[index];
+    return filtered_games[index];
 }
 
 /* Search games by name */
@@ -445,7 +449,7 @@ void catalog_search(const char *query) {
         }
         
         if (strstr(lower_title, lower_query) != NULL) {
-            search_results[search_count++] = app.games[i];
+            search_results[search_count++] = &app.games[i];
         }
     }
     
@@ -477,7 +481,7 @@ int catalog_get_search_count(void) {
 /* Get search result */
 Game *catalog_get_search_result(int index) {
     if (index < 0 || index >= search_count) return NULL;
-    return &search_results[index];
+    return search_results[index];
 }
 
 /* Sort by title (bubble sort - simple for DSi) */
