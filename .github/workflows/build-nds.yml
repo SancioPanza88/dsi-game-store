@@ -1,0 +1,38 @@
+name: Build DSi Game Store (.nds)
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'ds-app/**'
+      - '.github/workflows/build-nds.yml'
+
+jobs:
+  build:
+    name: Build .nds
+    runs-on: ubuntu-latest
+    container:
+      image: devkitpro/devkitarm:latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build
+        working-directory: ds-app
+        run: |
+          set -e
+          ls /opt/devkitpro/libnds/nds7.elf 2>/dev/null || ls /opt/devkitpro/libnds/bin/nds7.elf 2>/dev/null || true
+          export DEVKITPRO=/opt/devkitpro
+          export DEVKITARM=$DEVKITPRO/devkitARM
+          make clean
+          make ARM7=${DEVKITPRO}/libnds/nds7.elf
+
+      - name: Upload .nds artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: dsi-game-store-nds
+          path: ds-app/dsi-game-store.nds
+          if-no-files-found: error
+EOF
+echo created

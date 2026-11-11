@@ -1,0 +1,1062 @@
+{
+  "catalog_version": 1,
+  "last_update": "2026-11-11",
+  "total_games": 20,
+  "games": [
+    {
+      "id": 1,
+      "title": "Dragon Quest Monsters: Joker 2 Professional",
+      "cover": "covers/game_001.jpg",
+      "description": "Dragon Quest Monsters: Joker 2 Professional rom for NDS, free download Nintendo DS emulator game",
+      "genre": "RPG",
+      "year": 2011,
+      "versions": [
+        {
+          "name": "Dragon Quest Monsters - Joker 2 - Professional (Japan)",
+          "region": "JP",
+          "format": "zip",
+          "size": "66.11 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Dragon%20Quest%20Monsters%20-%20Joker%202%20-%20Professional%20(Japan).zip?e=1794241195&s=9-h6OLd68Ohu7g-c8yFTH0dxMW2kHaBQ3qGmd1fpJmg",
+          "archive": "zip"
+        },
+        {
+          "name": "Dragon Quest Monsters Joker 2 Professional (English v1.3.4)",
+          "region": "Unknown",
+          "format": "nds",
+          "size": "66.11 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/TRANS/Nintendo%20-%20Nintendo%20DS/Dragon%20Quest%20Monsters%20Joker%202%20Professional%20(English%20v1.3.4).7z?e=1794244102&s=lJUA_KxMMALEoXbQOX-vXrSoJd_K5NJgTUFtO8hpCdY",
+          "archive": "none"
+        },
+        {
+          "name": "Dragon Quest Monsters Joker 2 Professional (English v1.3.0)",
+          "region": "Unknown",
+          "format": "nds",
+          "size": "66.08 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/TRANS/Nintendo%20-%20Nintendo%20DS/Dragon%20Quest%20Monsters%20Joker%202%20Professional%20(English%20v1.3.0).7z?e=1794375762&s=bzgTk-1cbRJfC0HtbB5_zpFn7ieg6eOGGG4D1L7HDyI",
+          "archive": "none"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ace Attorney Investigations: Miles Edgeworth: Prosecutor’s Path",
+      "cover": "covers/game_002.jpg",
+      "description": "Ace Attorney Investigations: Miles Edgeworth: Prosecutor’s Path rom for NDS, free download Nintendo DS emulator game",
+      "genre": "Other",
+      "year": 2019,
+      "versions": [
+        {
+          "name": "Ace Attorney Investigations 2 Prosecutors Gambit (English v1.11.3)",
+          "region": "Unknown",
+          "format": "nds",
+          "size": "29.68 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/TRANS/Nintendo%20-%20Nintendo%20DS/Ace%20Attorney%20Investigations%202%20Prosecutors%20Gambit%20(English%20v1.11.3).7z?e=1794491403&s=uR4XGwW_oxOp2yNVvjAETfj3fqSgORd59HsPPh90NpE",
+          "archive": "none"
+        },
+        {
+          "name": "Ace Attorney Investigations 2 Prosecutors Gambit (English v1.8.6)",
+          "region": "Unknown",
+          "format": "zip",
+          "size": "47.65 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/TRANS/Nintendo%20-%20Nintendo%20DS/Ace%20Attorney%20Investigations%202%20Prosecutors%20Gambit%20(English%20v1.8.6).zip?e=1794491405&s=BODI1X6brzFCD7B49Qh5cCctRNa_QbCSSzL1I_tuKJw",
+          "archive": "zip"
+        },
+        {
+          "name": "Ace Attorney Investigations - Miles Edgeworth - Prosecutors Path (Japan) (T-En by Auryn v20022015) (n)",
+          "region": "JP",
+          "format": "zip",
+          "size": "29.68 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/TRANS/Nintendo%20-%20Nintendo%20DS/Ace%20Attorney%20Investigations%20-%20Miles%20Edgeworth%20-%20Prosecutors%20Path%20(Japan)%20(T-En%20by%20Auryn%20v20022015)%20(n).zip?e=1794240013&s=YsdpFNZwstsPGZDK6NoPnUN26R9AuUVqoVmuF-TMo58",
+          "archive": "zip"
+        },
+        {
+          "name": "Gyakuten Kenji 2 (AAI2 Final v2)",
+          "region": "Unknown",
+          "format": "zip",
+          "size": "34.34 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/TRANS/Nintendo%20-%20Nintendo%20DS/Gyakuten%20Kenji%202%20(AAI2%20Final%20v2).zip?e=1794258809&s=QUHyr8KGqQPBtwiehGlFybYVi1mripm0xYtKcb8AoLU",
+          "archive": "zip"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Castlevania: Portrait of Ruin",
+      "cover": "covers/game_003.jpg",
+      "description": "Castlevania: Portrait of Ruin rom for NDS, free download Nintendo DS emulator game",
+      "genre": "Action",
+      "year": 2006,
+      "versions": [
+        {
+          "name": "Castlevania - Portrait of Ruin (Europe) (EnFrDeEsIt)",
+          "region": "EU",
+          "format": "zip",
+          "size": "26.06 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Castlevania%20-%20Portrait%20of%20Ruin%20(Europe)%20(EnFrDeEsIt).zip?e=1794345033&s=ACuDDkRx1Bz5gFJUUg4-GWhaduhEyui7Ls68fl4wZ6U",
+          "archive": "zip"
+        },
+        {
+          "name": "Castlevania - Portrait of Ruin (USA)",
+          "region": "US",
+          "format": "zip",
+          "size": "26.06 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Castlevania%20-%20Portrait%20of%20Ruin%20(USA).zip?e=1794344507&s=Pd8pVuN6q7bviCU25SY7kgSiSs2Ll7a3XA7Ei7J8sRc",
+          "archive": "zip"
+        },
+        {
+          "name": "Akumajou Dracula - Gallery of Labyrinth (Japan) (Rev 1)",
+          "region": "JP",
+          "format": "zip",
+          "size": "26.06 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Akumajou%20Dracula%20-%20Gallery%20of%20Labyrinth%20(Japan)%20(Rev%201).zip?e=1794388030&s=rVLvkUynjouxUOwNa3q9RNVvEdQ9C3KRxzDBxSK6AwU",
+          "archive": "zip"
+        },
+        {
+          "name": "Akumajou Dracula - Gallery of Labyrinth (Japan)",
+          "region": "JP",
+          "format": "zip",
+          "size": "26.06 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Akumajou%20Dracula%20-%20Gallery%20of%20Labyrinth%20(Japan).zip?e=1794489506&s=iT034bCtuFePLxlw53JyhJ2p6ceIhX9vhkYVazYsCRM",
+          "archive": "zip"
+        },
+        {
+          "name": "Castlevania Portrait of Ruin (Refined Edition v1.2.2.1)",
+          "region": "Unknown",
+          "format": "zip",
+          "size": "26.06 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/Mods/NDS/Castlevania%20Portrait%20of%20Ruin%20(Refined%20Edition%20v1.2.2.1).zip?e=1794363259&s=vMK_kpp-36IgirICsaayKWooUFnDeEujqwTWWzZTQdc",
+          "archive": "zip"
+        },
+        {
+          "name": "Castlevania Portrait of Ruin (Refined Edition v1.2.1.0)",
+          "region": "Unknown",
+          "format": "nds",
+          "size": "26.06 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/Mods/NDS/Castlevania%20Portrait%20of%20Ruin%20(Refined%20Edition%20v1.2.1.0).7z?e=1794256696&s=HCiVw7oMd5I4s8fOn0SmxATvhJMiUwSX2ioopAzkVPc",
+          "archive": "none"
+        },
+        {
+          "name": "Castlevania - Simon Legacy",
+          "region": "Unknown",
+          "format": "zip",
+          "size": "57.67 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/Mods/NDS/Castlevania%20-%20Simon%20Legacy.zip?e=1794390357&s=50g6kEQ-ZPhHGT3IBhS7Usb20u-4nY_YnSJ3oQam_9g",
+          "archive": "zip"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Pokemon – Origin HeartGold",
+      "cover": "covers/game_004.jpg",
+      "description": "Pokemon - Origin HeartGold rom & iso for Nintendo DS, free download for Emulator",
+      "genre": "RPG",
+      "year": 2019,
+      "versions": [
+        {
+          "name": "Pokemon - Origin HeartGold (english patched)",
+          "region": "Unknown",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/Mods/NDS/Pokemon%20-%20Origin%20HeartGold%20(english%20patched).zip?e=1794340079&s=FJpABmsXkL0cnwqH8n-1HEDKE2CDSfMWilgJXjvdA2o",
+          "archive": "zip"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Asphalt 4: Elite Racing",
+      "cover": "covers/game_005.jpg",
+      "description": "Asphalt 4: Elite Racing rom for NDS, free download Nintendo DS emulator game",
+      "genre": "Racing",
+      "year": 2009,
+      "versions": [
+        {
+          "name": "Asphalt 4 - Elite Racing (Japan) (EnJa)",
+          "region": "JP",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/Nintendo-DSi-Decrypted/Asphalt%204%20-%20Elite%20Racing%20(Japan)%20(EnJa).zip?e=1794450106&s=aufPBFZoGhSQ5oGTua0e6mTemzryVc0bRLO9W7TObbE",
+          "archive": "zip"
+        },
+        {
+          "name": "Asphalt 4 Elite Racing (Europe Australia)",
+          "region": "EU",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/Nintendo-DSi-Decrypted/Asphalt%204%20Elite%20Racing%20(Europe%20Australia).zip?e=1794347527&s=4CmYNkMWbFopAKHCWhK0j3bhgCZQGJT3fdb74j0JoXY",
+          "archive": "zip"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "New Super Mario Bros. 5: Clone Tag Team 2",
+      "cover": "covers/game_006.jpg",
+      "description": "New Super Mario Bros. 5: Clone Tag Team 2 rom for NDS, free download Nintendo DS emulator game",
+      "genre": "Platform",
+      "year": 2014,
+      "versions": [
+        {
+          "name": "New Chaoji Maliou Xiongdi (China) (iDS)",
+          "region": "Unknown",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/New%20Chaoji%20Maliou%20Xiongdi%20(China)%20(iDS).zip?e=1794351583&s=EBXSGyQiXdmqsnQDAb4JzMb8VuQtBqmFOVrsrwSj_AA",
+          "archive": "zip"
+        },
+        {
+          "name": "New Chaoji Maliou Xiongdi (China) (iDS)",
+          "region": "Unknown",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/New%20Chaoji%20Maliou%20Xiongdi%20(China)%20(iDS).zip?e=1794250008&s=OK3SnbDfdioUPyfwY8e58RjCFAATeV58IZXRVkEJnNM",
+          "archive": "zip"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Französisch Buddy",
+      "cover": "covers/game_007.jpg",
+      "description": "Französisch Buddy rom for NDS, free download Nintendo DS emulator game",
+      "genre": "Other",
+      "year": 2008,
+      "versions": [
+        {
+          "name": "Franzoesisch Buddy (Europe) (FrDeEsIt) b",
+          "region": "EU",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Franzoesisch%20Buddy%20(Europe)%20(FrDeEsIt)%20b.zip?e=1794285540&s=Z2hSf0GH7hQz8Js6zPYgKjaEvTPq5aLwX_h5GcvI2GQ",
+          "archive": "zip"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Crazy Hamster",
+      "cover": "covers/game_008.jpg",
+      "description": "Crazy Hamster rom for NDS, free download Nintendo DS emulator game",
+      "genre": "Other",
+      "year": 2011,
+      "versions": [
+        {
+          "name": "Crazy Hamster (Europe) (EnFrDeEsIt)",
+          "region": "EU",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/Nintendo-DSi-Decrypted/Crazy%20Hamster%20(Europe)%20(EnFrDeEsIt).zip?e=1794491442&s=QsFfERaZ59lgK_rfislj5W-DouEDjh_noV3AJnuPwI4",
+          "archive": "zip"
+        },
+        {
+          "name": "Crazy Hamster (Japan)",
+          "region": "JP",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/Nintendo-DSi-Decrypted/Crazy%20Hamster%20(Japan).zip?e=1794491443&s=RWO512Oua048D2uLWgo_kaAR79qKqvjDLTLspRq-gy4",
+          "archive": "zip"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Digimon World Dawn",
+      "cover": "covers/game_009.jpg",
+      "description": "Digimon World Dawn rom for NDS, free download Nintendo DS emulator game",
+      "genre": "Other",
+      "year": 2007,
+      "versions": [
+        {
+          "name": "Digimon World - Dawn (USA)",
+          "region": "US",
+          "format": "zip",
+          "size": "18.5 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Digimon%20World%20-%20Dawn%20(USA).zip?e=1794349177&s=h9G78I5FwP1InBOhovLUtSDt7OViiR-ukGBRrB8QIoA",
+          "archive": "zip"
+        },
+        {
+          "name": "Digimon Story - Sunburst (Japan) (Beta)",
+          "region": "JP",
+          "format": "zip",
+          "size": "18.5 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Digimon%20Story%20-%20Sunburst%20(Japan)%20(Beta).zip?e=1794319707&s=XamGIjE3m7UANKvxVQdVJCFBEWlslgRcVi1zBHXn3Ik",
+          "archive": "zip"
+        },
+        {
+          "name": "Digimon Story - Sunburst (Japan) (Rev 1)",
+          "region": "JP",
+          "format": "zip",
+          "size": "18.5 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Digimon%20Story%20-%20Sunburst%20(Japan)%20(Rev%201).zip?e=1794404544&s=20w2ICn911nmWPk_3QuEBILU8GgebUDJHiVp58XCavA",
+          "archive": "zip"
+        },
+        {
+          "name": "Digimon Story - Sunburst (Japan)",
+          "region": "JP",
+          "format": "zip",
+          "size": "18.5 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Digimon%20Story%20-%20Sunburst%20(Japan).zip?e=1794333191&s=c6weWZ0IYbqYnbGiJ3TV8ZikAMOqDBAgB8w6S42ykTI",
+          "archive": "zip"
+        },
+        {
+          "name": "Digimon World Dawn (QoL v0.2.1)",
+          "region": "World",
+          "format": "nds",
+          "size": "18.5 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/Mods/NDS/Digimon%20World%20Dawn%20(QoL%20v0.2.1).7z?e=1794441525&s=Jh34FQzoDPYK6vw_yrNk0j7Wc0zPBXJT9nbaJ2ukJYA",
+          "archive": "none"
+        },
+        {
+          "name": "Digmon World Dawn (QoL)",
+          "region": "World",
+          "format": "nds",
+          "size": "18.5 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/Mods/NDS/Digmon%20World%20Dawn%20(QoL).7z?e=1794374026&s=9NAkVjLY7FJ9eDjiE0i34TwDDWWckP4-TxoN7bdcFas",
+          "archive": "none"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Pokémon Conquest: Ultimate",
+      "cover": "covers/game_010.jpeg",
+      "description": "Pokémon Conquest: Ultimate rom & iso for Nintendo DS, free download for Emulator",
+      "genre": "RPG",
+      "year": 2019,
+      "versions": [
+        {
+          "name": "Pokemon Conquest (Ultimate v4.0.4)",
+          "region": "Unknown",
+          "format": "nds",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/Mods/NDS/Pokemon%20Conquest%20(Ultimate%20v4.0.4).7z?e=1794376321&s=2xdtorWyG2OtzAg4gGwVY_ZPhMy6B3fi9KehQbUl4IY",
+          "archive": "none"
+        },
+        {
+          "name": "Pokémon Conquest: Ultimate (V3.0.3)",
+          "region": "Unknown",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/Mods/NDS/Pokemon%20Conquest%20Ultimate%20(v3.0.3)%20(1).zip?e=1794473310&s=mDQmzcf4Ou0yXpOC50W4JeDa35ugD91u4LGxlZxxIYo",
+          "archive": "zip"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Pokémon HeartGold & SoulSilver 2010",
+      "cover": "covers/game_011.jpg",
+      "description": "Pokémon HeartGold & SoulSilver 2010 rom for NDS, free download Nintendo DS emulator game",
+      "genre": "Other",
+      "year": 2010,
+      "versions": [
+        {
+          "name": "Pocket Monsters - HeartGold (Japan)",
+          "region": "JP",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pocket%20Monsters%20-%20HeartGold%20(Japan).zip?e=1794360314&s=dO1gwkprduW8YxHheTR2hksQwrkj3blUIzBwBp55uMo",
+          "archive": "zip"
+        },
+        {
+          "name": "Pocket Monsters - HeartGold (Korea)",
+          "region": "KR",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pocket%20Monsters%20-%20HeartGold%20(Korea).zip?e=1794363189&s=GN3QNc8-6Mw_s4wN9Q5fSacEXrp43ohecVzdNhgO3lo",
+          "archive": "zip"
+        },
+        {
+          "name": "Pokemon - Edicion Oro HeartGold (Spain)",
+          "region": "Unknown",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20Edicion%20Oro%20HeartGold%20(Spain).zip?e=1794345825&s=RWy54Oq0xakYCN8r56qFi62TId7Ni5eprNODJnlXgzw",
+          "archive": "zip"
+        },
+        {
+          "name": "Pokemon - Goldene Edition HeartGold (Germany)",
+          "region": "Unknown",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20Goldene%20Edition%20HeartGold%20(Germany).zip?e=1794344660&s=PF-HTWRUIJGYp_cdkVaW2WUKkWNqGSxidIN1E3MEryY",
+          "archive": "zip"
+        },
+        {
+          "name": "Pokemon - HeartGold Version (Europe)",
+          "region": "EU",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20HeartGold%20Version%20(Europe).zip?e=1794345238&s=bkOQmVROLEfmmv_7c2B7WvNNrYx919HQWrzsDgPSfAQ",
+          "archive": "zip"
+        },
+        {
+          "name": "Pokemon - HeartGold Version (USA)",
+          "region": "US",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20HeartGold%20Version%20(USA).zip?e=1794340571&s=sK5NgUsxJ_XKLHjXUSh8X5NmR3nb0VI-XzZ8RZYUdSQ",
+          "archive": "zip"
+        },
+        {
+          "name": "Pocket Monsters - SoulSilver (Japan)",
+          "region": "JP",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pocket%20Monsters%20-%20SoulSilver%20(Japan).zip?e=1794357228&s=1ZmBV8yXT93xrYlRDEbF0PbFNC4_XQAAd2rU2N01Y7Y",
+          "archive": "zip"
+        },
+        {
+          "name": "Pocket Monsters - SoulSilver (Korea)",
+          "region": "KR",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pocket%20Monsters%20-%20SoulSilver%20(Korea).zip?e=1794363192&s=8dwPMmlpWTTjqoujHRfqoQNqLEsj3Lufg3_oFQ26JeI",
+          "archive": "zip"
+        },
+        {
+          "name": "Pokemon - Edicion Plata SoulSilver (Spain)",
+          "region": "Unknown",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20Edicion%20Plata%20SoulSilver%20(Spain).zip?e=1794352548&s=zsj9099KGKyG8IUi2nsHQKgZCwMeV8HSTqLTCRZFANk",
+          "archive": "zip"
+        },
+        {
+          "name": "Pokemon - SoulSilver Version (Europe)",
+          "region": "EU",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20SoulSilver%20Version%20(Europe).zip?e=1794356080&s=kCPOOkGlPdx3QJ0gwgEb0bJa4NIcgy67Dq32rhqNWCs",
+          "archive": "zip"
+        },
+        {
+          "name": "Pokemon - SoulSilver Version (USA Australia)",
+          "region": "US",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20SoulSilver%20Version%20(USA%20Australia).zip?e=1794374765&s=seahUGcOrq1YOnxa5steufO6l4tq5QA3gg5DsDM8QxM",
+          "archive": "zip"
+        },
+        {
+          "name": "Pokemon - SoulSilver Version (USA)",
+          "region": "US",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20SoulSilver%20Version%20(USA).zip?e=1794340589&s=n64PZKdMDxkFSjAbj93tsmy34WJazyGGJcx7BunncLQ",
+          "archive": "zip"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Pokémon Platinum",
+      "cover": "covers/game_012.jpg",
+      "description": "Pokémon Platinum rom for NDS, free download Nintendo DS emulator game",
+      "genre": "Other",
+      "year": 2009,
+      "versions": [
+        {
+          "name": "Pokemon - Platinum Version (Europe)",
+          "region": "EU",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20Platinum%20Version%20(Europe).zip?e=1794339807&s=A4R6bATAsdk6lYyTCulOClp2HFh3XA93XKGr8_06zbA",
+          "archive": "zip"
+        },
+        {
+          "name": "Pokemon - Platinum Version (USA) (Rev 1)",
+          "region": "US",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20Platinum%20Version%20(USA)%20(Rev%201).zip?e=1794340290&s=sA7Sn7YGwlMfB3hzvdEZnMc6e0OAqCayU1lL_IJoO5Y",
+          "archive": "zip"
+        },
+        {
+          "name": "Pokemon - Platinum Version (USA)",
+          "region": "US",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20Platinum%20Version%20(USA).zip?e=1794340239&s=TFCtn-hcIaDmSsvgcEoKsyuQUqeff4hon-1DvsmzznQ",
+          "archive": "zip"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "New Super Mario Bros.",
+      "cover": "covers/game_013.jpg",
+      "description": "New Super Mario Bros. rom for NDS, free download Nintendo DS emulator game",
+      "genre": "Platform",
+      "year": 2006,
+      "versions": [
+        {
+          "name": "New Super Mario Bros. (Europe) (EnFrDeEsIt) (Demo) (Kiosk Y78P)",
+          "region": "EU",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/New%20Super%20Mario%20Bros.%20(Europe)%20(EnFrDeEsIt)%20(Demo)%20(Kiosk%20Y78P).zip?e=1794341143&s=B7FzOdSXtX6JflJKekr5sJNYfapKEBrTkpR9Z2czgrM",
+          "archive": "zip"
+        },
+        {
+          "name": "New Super Mario Bros. (Europe) (EnFrDeEsIt) (Demo) (Kiosk)",
+          "region": "EU",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/New%20Super%20Mario%20Bros.%20(Europe)%20(EnFrDeEsIt)%20(Demo)%20(Kiosk).zip?e=1794346790&s=vD7qdfiRZ7-jBvtQcB1ohkH7O1AB-oVACuEhbP8xqQo",
+          "archive": "zip"
+        },
+        {
+          "name": "New Super Mario Bros. (Europe) (EnFrDeEsIt)",
+          "region": "EU",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/New%20Super%20Mario%20Bros.%20(Europe)%20(EnFrDeEsIt).zip?e=1794340127&s=ej7HKTNIq_OgF1Eku9vpkzrIh0iT3UBJKPI7o4-Lnhs",
+          "archive": "zip"
+        },
+        {
+          "name": "New Super Mario Bros. (Japan) (Demo) (Kiosk)",
+          "region": "JP",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/New%20Super%20Mario%20Bros.%20(Japan)%20(Demo)%20(Kiosk).zip?e=1794350706&s=7lVmwOM5tCaeY91yuuqciXcWcUqXWydcwAcVP3SUQ80",
+          "archive": "zip"
+        },
+        {
+          "name": "New Super Mario Bros. (Japan)",
+          "region": "JP",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/New%20Super%20Mario%20Bros.%20(Japan).zip?e=1794350107&s=y8MX1sRe9DldxVVQ1gXvVaVV5Djoy2E5mMU7_9BD4JA",
+          "archive": "zip"
+        },
+        {
+          "name": "New Super Mario Bros. (Korea)",
+          "region": "KR",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/New%20Super%20Mario%20Bros.%20(Korea).zip?e=1794350419&s=MYd6WHfZc442PCRtbSOPEIjIQ2gjtmD8kwV4q7eZU-I",
+          "archive": "zip"
+        },
+        {
+          "name": "New Super Mario Bros. (USA Australia)",
+          "region": "US",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/New%20Super%20Mario%20Bros.%20(USA%20Australia).zip?e=1794341696&s=Li1jQ4Fc0jGgly60L6jTNyyYpV7xHG5E6pxedhETNDw",
+          "archive": "zip"
+        },
+        {
+          "name": "New Super Mario Bros. (USA) (Demo) (Kiosk)",
+          "region": "US",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/New%20Super%20Mario%20Bros.%20(USA)%20(Demo)%20(Kiosk).zip?e=1794366403&s=rR8OZUUJAsckw2FacdByA2eYgL8ePckG9AB53SYgRyc",
+          "archive": "zip"
+        },
+        {
+          "name": "New Super Mario Bros. (USA)",
+          "region": "US",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/New%20Super%20Mario%20Bros.%20(USA).zip?e=1794340034&s=I8C2pRAseHcz6v8RjCBXsR3kYMpudBr7Sysn-Z8kvmU",
+          "archive": "zip"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Pokémon Black Version",
+      "cover": "covers/game_014.jpg",
+      "description": "Pokémon Black Version rom for NDS, free download Nintendo DS emulator game",
+      "genre": "Other",
+      "year": 2010,
+      "versions": [
+        {
+          "name": "Pokemon - Black Version (USA Europe) (NDSi Enhanced)",
+          "region": "EU",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20Black%20Version%20(USA%20Europe)%20(NDSi%20Enhanced).zip?e=1794340156&s=ckAqs96-q1gMbISGMo1D8i91JRD_ACsb041M0i9Oed4",
+          "archive": "zip"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Mario Kart DS",
+      "cover": "covers/game_015.jpg",
+      "description": "Mario Kart DS rom for NDS, free download Nintendo DS emulator game",
+      "genre": "Racing",
+      "year": 2005,
+      "versions": [
+        {
+          "name": "Mario Kart DS (Europe) (Demo) (Kiosk Multiplayer)",
+          "region": "EU",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Mario%20Kart%20DS%20(Europe)%20(Demo)%20(Kiosk%20Multiplayer).zip?e=1794346236&s=TCVf21wxZU5_UHZj-82F-Eyv_7iab7Ywdx_LILocOSs",
+          "archive": "zip"
+        },
+        {
+          "name": "Mario Kart DS (Europe) (EnFrDeEsIt)",
+          "region": "EU",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Mario%20Kart%20DS%20(Europe)%20(EnFrDeEsIt).zip?e=1794340039&s=Dk-SJJWgmwxAY0RpQ6UtNdcp3y0mixvimR0E1pNd0LE",
+          "archive": "zip"
+        },
+        {
+          "name": "Mario Kart DS (Japan) (Demo) (Kiosk)",
+          "region": "JP",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Mario%20Kart%20DS%20(Japan)%20(Demo)%20(Kiosk).zip?e=1794384029&s=ar9Sn_f1toByoV-hu7fHkovD6EuFrgLW4k_DF2KYIgI",
+          "archive": "zip"
+        },
+        {
+          "name": "Mario Kart DS (Japan)",
+          "region": "JP",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Mario%20Kart%20DS%20(Japan).zip?e=1794355656&s=z2lrg6iOTELQdWwSLGhHKoEpjFVeHYqww8olkQb3E3w",
+          "archive": "zip"
+        },
+        {
+          "name": "Mario Kart DS (Korea)",
+          "region": "KR",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Mario%20Kart%20DS%20(Korea).zip?e=1794360248&s=I_IFivm3ZAC_-tyqOXU1JNenBmcnM2Hnb_aKfnT-av8",
+          "archive": "zip"
+        },
+        {
+          "name": "Mario Kart DS (USA Australia) (EnFrDeEsIt)",
+          "region": "US",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Mario%20Kart%20DS%20(USA%20Australia)%20(EnFrDeEsIt).zip?e=1794345956&s=mSBVseWPskEalTLLKFDnC3Cb12YwcE0qf8ewD9S8Ksk",
+          "archive": "zip"
+        },
+        {
+          "name": "Mario Kart DS (USA) (Demo) (Kiosk)",
+          "region": "US",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Mario%20Kart%20DS%20(USA)%20(Demo)%20(Kiosk).zip?e=1794348625&s=Hmn3oHQkDZlmTD0UZvmAewszMRKMFMN9TWOtZYCQhSo",
+          "archive": "zip"
+        },
+        {
+          "name": "Mario Kart DS (USA) (EnFrDeEsIt)",
+          "region": "US",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Mario%20Kart%20DS%20(USA)%20(EnFrDeEsIt).zip?e=1794341281&s=Ijfp_6eiQ923SycSQC0wSuaJEJMrYdg1iX7X7vWfDzY",
+          "archive": "zip"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Pokémon Black Version 2",
+      "cover": "covers/game_016.jpg",
+      "description": "Pokémon Black Version 2 rom for NDS, free download Nintendo DS emulator game",
+      "genre": "Other",
+      "year": 2012,
+      "versions": [
+        {
+          "name": "Pokemon - Black Version 2 (USA Europe) (NDSi Enhanced)",
+          "region": "EU",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20Black%20Version%202%20(USA%20Europe)%20(NDSi%20Enhanced).zip?e=1794340336&s=ifnJ851a_J5SUNk4wdXVAPVyzc3PGfRBoPzBCRPXf1M",
+          "archive": "zip"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Pokémon HeartGold Version",
+      "cover": "covers/game_017.jpg",
+      "description": "Pokémon HeartGold Version rom for NDS, free download Nintendo DS emulator game",
+      "genre": "Other",
+      "year": 2009,
+      "versions": [
+        {
+          "name": "Pokemon - HeartGold Version (Europe)",
+          "region": "EU",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20HeartGold%20Version%20(Europe).zip?e=1794340345&s=hownr8xoIsQCG8gu7c920esHu9k3Q61QjDik4YqX0CU",
+          "archive": "zip"
+        },
+        {
+          "name": "Pokemon - HeartGold Version (USA)",
+          "region": "US",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20HeartGold%20Version%20(USA).zip?e=1794340140&s=KqShwyCX1VbA_WeFb7j9yKwHExyd8jbRlCpb7wwssic",
+          "archive": "zip"
+        },
+        {
+          "name": "Pokemon - Version Or HeartGold (France)",
+          "region": "Unknown",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20Version%20Or%20HeartGold%20(France).zip?e=1794351264&s=ad6ZAHmZeSixtyiHtgxLSUxdaTNRfnGB6abaITRgYgI",
+          "archive": "zip"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Pokémon SoulSilver Version",
+      "cover": "covers/game_018.jpg",
+      "description": "Pokémon SoulSilver Version rom for NDS, free download Nintendo DS emulator game",
+      "genre": "Other",
+      "year": 2009,
+      "versions": [
+        {
+          "name": "Pokemon - SoulSilver Version (Europe)",
+          "region": "EU",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20SoulSilver%20Version%20(Europe).zip?e=1794340401&s=Lg_JTS6JL6XZveQFudx6aSWu1v9BcVVV1Rmx2Q47p4g",
+          "archive": "zip"
+        },
+        {
+          "name": "Pokemon - SoulSilver Version (USA Australia)",
+          "region": "US",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20SoulSilver%20Version%20(USA%20Australia).zip?e=1794348674&s=alt4Z_H4x375LsR2nDcpiNojQZqxXmAtNzNUU2vZvG8",
+          "archive": "zip"
+        },
+        {
+          "name": "Pokemon - SoulSilver Version (USA)",
+          "region": "US",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20SoulSilver%20Version%20(USA).zip?e=1794340473&s=ZHdNMST6fRm93C-MTDSNjJfsk_PBjalqK87BOpN9_wk",
+          "archive": "zip"
+        },
+        {
+          "name": "Pokemon - Silberne Edition SoulSilver (Germany)",
+          "region": "Unknown",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20Silberne%20Edition%20SoulSilver%20(Germany).zip?e=1794391737&s=oBhF3xVV80PSn1pSqX_T-Ue4qmt2Udbvq7A5RhHWAY8",
+          "archive": "zip"
+        },
+        {
+          "name": "Pokemon - Version Argent SoulSilver (France)",
+          "region": "Unknown",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20Version%20Argent%20SoulSilver%20(France).zip?e=1794379735&s=Bj_smx8KTtcLOKOC1jSLRKmw0pu82yGibIcNcl0J1oc",
+          "archive": "zip"
+        },
+        {
+          "name": "Pokemon - Versione Argento SoulSilver (Italy)",
+          "region": "Unknown",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pokemon%20-%20Versione%20Argento%20SoulSilver%20(Italy).zip?e=1794418734&s=wZ9wGuJHhwatXbIjBQSTCPIonkTBnxdJV5M2FEiDGOU",
+          "archive": "zip"
+        },
+        {
+          "name": "Pokemon SoulSilver - 3D mode",
+          "region": "Unknown",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/Mods/NDS/Pokemon%20SoulSilver%20-%203D%20mode.zip?e=1794348460&s=L1OZdkcNaSE1p1w_iH62-syNUdo42RkVQZIYF4TIJ6s",
+          "archive": "zip"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Pokémon Black and White",
+      "cover": "covers/game_019.jpg",
+      "description": "Pokémon Black and White rom for NDS, free download Nintendo DS emulator game",
+      "genre": "Other",
+      "year": 2011,
+      "versions": [
+        {
+          "name": "Pokemon Black (Unova Pokédex Edition v1.23)",
+          "region": "Unknown",
+          "format": "nds",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/Mods/NDS/Pokemon%20Black%20(Unova%20Pok%C3%A9dex%20Edition%20v1.23).7z?e=1794341295&s=sSQqaNNhJC4jCsAqe4uheoi1HKORbGw8oOkchOVn52o",
+          "archive": "none"
+        },
+        {
+          "name": "Pokemon White (Unova Pokédex Edition v1.23)",
+          "region": "Unknown",
+          "format": "nds",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/Mods/NDS/Pokemon%20White%20(Unova%20Pok%C3%A9dex%20Edition%20v1.23).7z?e=1794342060&s=HIJmyKCFIVbwEITya5fPKnRLBce7fEwGvzqBWZjV7OI",
+          "archive": "none"
+        },
+        {
+          "name": "Pocket Monsters - Black (Japan) (NDSi Enhanced)",
+          "region": "JP",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pocket%20Monsters%20-%20Black%20(Japan)%20(NDSi%20Enhanced).zip?e=1794344750&s=IXtjGlfB3CJK32eRGT7RbdJ-L8cd8L8pFn8WwsMN0DU",
+          "archive": "zip"
+        },
+        {
+          "name": "Pocket Monsters - White (Japan) (NDSi Enhanced)",
+          "region": "JP",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pocket%20Monsters%20-%20White%20(Japan)%20(NDSi%20Enhanced).zip?e=1794342241&s=m90yPQEhCoh2eFQ6U2j1g2DzS4bwZE7IIz3vaJbn7Lg",
+          "archive": "zip"
+        },
+        {
+          "name": "Pocket Monsters - Black (Korea) (NDSi Enhanced)",
+          "region": "KR",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pocket%20Monsters%20-%20Black%20(Korea)%20(NDSi%20Enhanced).zip?e=1794366366&s=KnA-cOCge9NAYjN9-dgf2Z47TzT4alrmhxEzJtZGtdY",
+          "archive": "zip"
+        },
+        {
+          "name": "Pocket Monsters - White (Korea) (NDSi Enhanced)",
+          "region": "KR",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pocket%20Monsters%20-%20White%20(Korea)%20(NDSi%20Enhanced).zip?e=1794310661&s=4Ki0uJOljWk2KVsHhEXcfTMjkbEBeXhnbrr5h4Ad7PY",
+          "archive": "zip"
+        },
+        {
+          "name": "Pocket Monsters - Black 2 (Japan) (Rev 1) (NDSi Enhanced)",
+          "region": "JP",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pocket%20Monsters%20-%20Black%202%20(Japan)%20(Rev%201)%20(NDSi%20Enhanced).zip?e=1794357221&s=R_n1riEbHlwRICNBW_iYAS6B1hAWRe4ObcK6q_6TEBo",
+          "archive": "zip"
+        },
+        {
+          "name": "Pocket Monsters - White 2 (Japan) (Rev 1) (NDSi Enhanced)",
+          "region": "JP",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pocket%20Monsters%20-%20White%202%20(Japan)%20(Rev%201)%20(NDSi%20Enhanced).zip?e=1794358789&s=FnFRMjcdnna5XJZgEe2x4y-tx-vEJFtzY83QZWaZRiM",
+          "archive": "zip"
+        },
+        {
+          "name": "Pocket Monsters - Black 2 (Korea) (NDSi Enhanced)",
+          "region": "KR",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pocket%20Monsters%20-%20Black%202%20(Korea)%20(NDSi%20Enhanced).zip?e=1794396335&s=N6R3MV5m9sTHOYUycU1BSP5Yar4jq9ZnNQXtULwLbss",
+          "archive": "zip"
+        },
+        {
+          "name": "Pocket Monsters - White 2 (Korea) (NDSi Enhanced)",
+          "region": "KR",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pocket%20Monsters%20-%20White%202%20(Korea)%20(NDSi%20Enhanced).zip?e=1794397045&s=YdKRHpVntia2n4CHuK086rM1LUU5ev8C31v3hHF7pcM",
+          "archive": "zip"
+        },
+        {
+          "name": "Pocket Monsters - Black 2 (Korea) (NDSi Enhanced) b",
+          "region": "KR",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pocket%20Monsters%20-%20Black%202%20(Korea)%20(NDSi%20Enhanced)%20b.zip?e=1794389957&s=2L13BDKTqyltPoXVO5s3WjUvJJm-7yZKI8mrNHZ_UhU",
+          "archive": "zip"
+        },
+        {
+          "name": "Pocket Monsters - White 2 (Korea) (NDSi Enhanced) b",
+          "region": "KR",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Pocket%20Monsters%20-%20White%202%20(Korea)%20(NDSi%20Enhanced)%20b.zip?e=1794445179&s=nrstHdoQurerQAlGDwiuRIv-ypnUjN0JEET8o2MvKMs",
+          "archive": "zip"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Super Mario 64 DS",
+      "cover": "covers/game_020.jpg",
+      "description": "Super Mario 64 DS rom for NDS, free download Nintendo DS emulator game",
+      "genre": "Platform",
+      "year": 2004,
+      "versions": [
+        {
+          "name": "Super Mario 64 DS (Europe) (EnFrDeEsIt)",
+          "region": "EU",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Super%20Mario%2064%20DS%20(Europe)%20(EnFrDeEsIt).zip?e=1794341536&s=QqXMh4oaOXH1Gkka99GZXpwOBj-Pg2Nfvr-JpAKSn4w",
+          "archive": "zip"
+        },
+        {
+          "name": "Super Mario 64 DS (Japan) (Rev 1)",
+          "region": "JP",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Super%20Mario%2064%20DS%20(Japan)%20(Rev%201).zip?e=1794364546&s=P0dxSt57SdhtXdkTW5kOxxyojSNa6E-j0DzTVTiRuJ4",
+          "archive": "zip"
+        },
+        {
+          "name": "Super Mario 64 DS (Japan)",
+          "region": "JP",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Super%20Mario%2064%20DS%20(Japan).zip?e=1794364287&s=Qd7_J0wS2Hia6muJIb5E2tzWyOPK6HEowiG1OvHDyQ0",
+          "archive": "zip"
+        },
+        {
+          "name": "Super Mario 64 DS (Korea)",
+          "region": "KR",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Super%20Mario%2064%20DS%20(Korea).zip?e=1794457124&s=1FA9PjhpwUB64FVZsOFGog_6m_8kDbicRz0BpHsMXyI",
+          "archive": "zip"
+        },
+        {
+          "name": "Super Mario 64 DS (USA Australia) (Rev 1)",
+          "region": "US",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Super%20Mario%2064%20DS%20(USA%20Australia)%20(Rev%201).zip?e=1794360718&s=vhBSqBR4BiMENriALDyJRgFVIhigA-ywbuKJ7RFr8jk",
+          "archive": "zip"
+        },
+        {
+          "name": "Super Mario 64 DS (USA) (Demo) (Kiosk)",
+          "region": "US",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Super%20Mario%2064%20DS%20(USA)%20(Demo)%20(Kiosk).zip?e=1794367464&s=O9otMIBjZR5GAxVp5HMO_fb0FTE5hhK8w2s273AmMKQ",
+          "archive": "zip"
+        },
+        {
+          "name": "Super Mario 64 DS (USA) (Rev 1)",
+          "region": "US",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Super%20Mario%2064%20DS%20(USA)%20(Rev%201).zip?e=1794350999&s=wYqO6FWQTuh0RFR8SjGN2TqEQrMbeOD2_T_rA7ez3ms",
+          "archive": "zip"
+        },
+        {
+          "name": "Super Mario 64 DS (USA)",
+          "region": "US",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Super%20Mario%2064%20DS%20(USA).zip?e=1794341333&s=VyRYL66xy8s8oHyqJmsQ80075SK8vibzv5RN6c0QyKg",
+          "archive": "zip"
+        },
+        {
+          "name": "Shenyou Maliou DS (China) (iDS)",
+          "region": "Unknown",
+          "format": "zip",
+          "size": "74.87 MB",
+          "download_available": true,
+          "download_url": "https://sto.romsfast.com/NDS/Shenyou%20Maliou%20DS%20(China)%20(iDS).zip?e=1794403534&s=izb1MapyKfUotHPCr_UyjYFsPOVpLAsrbRn1QD7gFd8",
+          "archive": "zip"
+        }
+      ]
+    }
+  ]
+}
